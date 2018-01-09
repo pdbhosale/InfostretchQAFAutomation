@@ -1,0 +1,284 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "getTitle",
+      "args": [
+        "{}"
+      ],
+      "result": "",
+      "subLogs": [],
+      "duration": 33
+    },
+    {
+      "commandName": "get",
+      "args": [
+        "{url=https://www.infostretch.com}"
+      ],
+      "result": "null",
+      "subLogs": [],
+      "duration": 18656
+    },
+    {
+      "commandName": "maximizeWindow",
+      "args": [
+        "{windowHandle=current}"
+      ],
+      "result": "null",
+      "subLogs": [],
+      "duration": 1150
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//a/span[text()='IP & INNOVATION'], using=xpath}"
+      ],
+      "result": "[id: 0.4478427079639644-1, id: 0.4478427079639644-2]",
+      "subLogs": [],
+      "duration": 163
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a/span[text()='IP & INNOVATION'], using=xpath}"
+      ],
+      "result": "id: 0.4478427079639644-1",
+      "subLogs": [],
+      "duration": 111
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.xpath: //a/span[text()='IP & INNOVATION']",
+        "{\"id\":\"0.4478427079639644-1\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 145
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a/span[text()='IP & INNOVATION'], using=xpath}"
+      ],
+      "result": "id: 0.4478427079639644-1",
+      "subLogs": [],
+      "duration": 14
+    },
+    {
+      "commandName": "mouseMoveTo",
+      "args": [
+        "{element=0.4478427079639644-1}"
+      ],
+      "result": "null",
+      "subLogs": [],
+      "duration": 41
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@id='menu-main-menu-05-may']/div[2]/div/div/div[1]/div/a/span, using=xpath}"
+      ],
+      "result": "[id: 0.4478427079639644-3, id: 0.4478427079639644-4, id: 0.4478427079639644-5, id: 0.4478427079639644-6, id: 0.4478427079639644-7, id: 0.4478427079639644-8]",
+      "subLogs": [],
+      "duration": 50
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "id: 0.4478427079639644-3",
+        "{\"id\":\"0.4478427079639644-3\"}"
+      ],
+      "result": "getElementText:QMetry Test Management",
+      "subLogs": [],
+      "duration": 48
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "id: 0.4478427079639644-4",
+        "{\"id\":\"0.4478427079639644-4\"}"
+      ],
+      "result": "getElementText:QMetry Automation Studio",
+      "subLogs": [],
+      "duration": 28
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "id: 0.4478427079639644-5",
+        "{\"id\":\"0.4478427079639644-5\"}"
+      ],
+      "result": "getElementText:QMetry Automation Framework",
+      "subLogs": [],
+      "duration": 37
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "id: 0.4478427079639644-6",
+        "{\"id\":\"0.4478427079639644-6\"}"
+      ],
+      "result": "getElementText:QMetry Test Management for JIRA",
+      "subLogs": [],
+      "duration": 28
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "id: 0.4478427079639644-7",
+        "{\"id\":\"0.4478427079639644-7\"}"
+      ],
+      "result": "getElementText:QMetry Open API",
+      "subLogs": [],
+      "duration": 30
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "id: 0.4478427079639644-8",
+        "{\"id\":\"0.4478427079639644-8\"}"
+      ],
+      "result": "getElementText:QMetry Wisdom for JIRA",
+      "subLogs": [],
+      "duration": 20
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//span[text()='QMetry Automation Framework'], using=xpath}"
+      ],
+      "result": "id: 0.4478427079639644-5",
+      "subLogs": [],
+      "duration": 16
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //span[text()='QMetry Automation Framework']",
+        "{\"id\":\"0.4478427079639644-5\"}"
+      ],
+      "result": "clickElement:null",
+      "subLogs": [],
+      "duration": 200
+    },
+    {
+      "commandName": "getWindowHandles",
+      "args": [
+        "{}"
+      ],
+      "result": "[CDwindow-(605F5421CB04733CAFA5477FE4433288), CDwindow-(878AFB870CD25C7D53DD499AD4A64910)]",
+      "subLogs": [],
+      "duration": 13
+    },
+    {
+      "commandName": "switchToWindow",
+      "args": [
+        "{name=CDwindow-(605F5421CB04733CAFA5477FE4433288)}"
+      ],
+      "result": "null",
+      "subLogs": [],
+      "duration": 32
+    },
+    {
+      "commandName": "switchToWindow",
+      "args": [
+        "{name=CDwindow-(878AFB870CD25C7D53DD499AD4A64910)}"
+      ],
+      "result": "null",
+      "subLogs": [],
+      "duration": 48
+    },
+    {
+      "commandName": "getTitle",
+      "args": [
+        "{}"
+      ],
+      "result": "Open Source Best Test Automation Framework for Agile testing",
+      "subLogs": [],
+      "duration": 1098
+    },
+    {
+      "commandName": "getTitle",
+      "args": [
+        "{}"
+      ],
+      "result": "Open Source Best Test Automation Framework for Agile testing",
+      "subLogs": [],
+      "duration": 7
+    }
+  ],
+  "checkPoints": [
+    {
+      "message": "Started QAF Automation",
+      "type": "Info",
+      "screenshot": "",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "Infostretch home Page validtion\nExpected: a string containing \"Best Test Management\"\n     Actual: was \"\"",
+      "type": "Fail",
+      "screenshot": "../img/verificationInfostretchWeb_zeldvh0cdew737729.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "QMetry Test Management is present under IP & INNOVATION",
+      "type": "Info",
+      "screenshot": "",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "QMetry Automation Studio is present under IP & INNOVATION",
+      "type": "Info",
+      "screenshot": "",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "QMetry Automation Framework is present under IP & INNOVATION",
+      "type": "Info",
+      "screenshot": "",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "QMetry Test Management for JIRA is present under IP & INNOVATION",
+      "type": "Info",
+      "screenshot": "",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "QMetry Open API is present under IP & INNOVATION",
+      "type": "Info",
+      "screenshot": "",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "QMetry Wisdom for JIRA is present under IP & INNOVATION",
+      "type": "Info",
+      "screenshot": "",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "Selected Page validtion\nExpected: a string containing \"Automation Framework\"\n     Actual: was \"Open Source Best Test Automation Framework for Agile testing\"",
+      "type": "Pass",
+      "screenshot": "../img/verificationInfostretchWeb_3a66z5bh92sp37730.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    }
+  ]
+}

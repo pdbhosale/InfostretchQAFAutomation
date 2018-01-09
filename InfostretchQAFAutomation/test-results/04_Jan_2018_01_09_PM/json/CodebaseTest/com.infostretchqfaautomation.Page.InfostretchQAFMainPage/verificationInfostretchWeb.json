@@ -1,0 +1,87 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "get",
+      "args": [
+        "{url=https://www.infostretch.com}"
+      ],
+      "result": "null",
+      "subLogs": [],
+      "duration": 26771
+    },
+    {
+      "commandName": "maximizeWindow",
+      "args": [
+        "{windowHandle=current}"
+      ],
+      "result": "null",
+      "subLogs": [],
+      "duration": 1206
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//a/span[text()='IP & INNOVATION'], using=xpath}"
+      ],
+      "result": "[id: 0.5386795729326364-1, id: 0.5386795729326364-2]",
+      "subLogs": [],
+      "duration": 228
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a/span[text()='IP & INNOVATION'], using=xpath}"
+      ],
+      "result": "id: 0.5386795729326364-1",
+      "subLogs": [],
+      "duration": 72
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.xpath: //a/span[text()='IP & INNOVATION']",
+        "{\"id\":\"0.5386795729326364-1\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 24
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a/span[text()='IP & INNOVATION'], using=xpath}"
+      ],
+      "result": "id: 0.5386795729326364-1",
+      "subLogs": [],
+      "duration": 54
+    },
+    {
+      "commandName": "mouseMoveTo",
+      "args": [
+        "{element=0.5386795729326364-1}"
+      ],
+      "result": "null",
+      "subLogs": [],
+      "duration": 96
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@id='menu-main-menu-05-may']/div[2]/div/div/div[1]/div/a/span, using=xpath}"
+      ],
+      "result": "[id: 0.5386795729326364-3, id: 0.5386795729326364-4, id: 0.5386795729326364-5, id: 0.5386795729326364-6, id: 0.5386795729326364-7, id: 0.5386795729326364-8]",
+      "subLogs": [],
+      "duration": 81
+    }
+  ],
+  "checkPoints": [
+    {
+      "message": "Started QAF Automation",
+      "type": "Info",
+      "screenshot": "",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    }
+  ]
+}

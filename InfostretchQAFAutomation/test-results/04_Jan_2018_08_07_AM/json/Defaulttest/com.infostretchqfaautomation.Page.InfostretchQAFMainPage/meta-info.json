@@ -1,0 +1,115 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@3d6f0054]"
+      },
+      "dependsOn": [],
+      "startTime": 1515053537537,
+      "duration": 61733,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWebdUawNoQasA",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@543e710e]"
+      },
+      "dependsOn": [],
+      "startTime": 1515053775292,
+      "duration": 24402,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWebJMwwyXbIzW",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@543e710e]"
+      },
+      "dependsOn": [],
+      "startTime": 1515054141292,
+      "duration": 22608,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWebACUvlIQwrm",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@543e710e]"
+      },
+      "dependsOn": [],
+      "startTime": 1515054969086,
+      "duration": 22944,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWebednOfPLscR",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@543e710e]"
+      },
+      "dependsOn": [],
+      "startTime": 1515071123361,
+      "duration": 41735,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWebkQAsCisNIh",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@543e710e]"
+      },
+      "dependsOn": [],
+      "startTime": 1515071271178,
+      "duration": 33488,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWebhoUutWLaCi",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@543e710e]"
+      },
+      "dependsOn": [],
+      "startTime": 1515124553041,
+      "duration": 19568,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

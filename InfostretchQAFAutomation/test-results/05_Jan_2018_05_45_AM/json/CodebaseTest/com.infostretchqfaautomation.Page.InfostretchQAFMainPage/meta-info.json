@@ -1,0 +1,19 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@cb51256]"
+      },
+      "dependsOn": [],
+      "startTime": 1515131151168,
+      "duration": 30295,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

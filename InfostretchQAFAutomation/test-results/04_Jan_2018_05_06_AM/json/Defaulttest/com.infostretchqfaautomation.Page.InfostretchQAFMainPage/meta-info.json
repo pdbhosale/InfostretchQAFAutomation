@@ -1,0 +1,323 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@543e710e]"
+      },
+      "dependsOn": [],
+      "startTime": 1515042537637,
+      "duration": 17838,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWebcnRHrgrpmW",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@543e710e]"
+      },
+      "dependsOn": [],
+      "startTime": 1515042627267,
+      "duration": 16573,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWebRvxSvNfPqg",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@543e710e]"
+      },
+      "dependsOn": [],
+      "startTime": 1515042672245,
+      "duration": 18493,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWebAhASfGzxQu",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@543e710e]"
+      },
+      "dependsOn": [],
+      "startTime": 1515042781717,
+      "duration": 17978,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWebiNUoEXDCuA",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@543e710e]"
+      },
+      "dependsOn": [],
+      "startTime": 1515043627562,
+      "duration": 15574,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWebdNNLJJaUCF",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@543e710e]"
+      },
+      "dependsOn": [],
+      "startTime": 1515043684807,
+      "duration": 15002,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWebmBLzTKljbO",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@543e710e]"
+      },
+      "dependsOn": [],
+      "startTime": 1515043943283,
+      "duration": 15686,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWebDjOdMWUwDx",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@543e710e]"
+      },
+      "dependsOn": [],
+      "startTime": 1515043990099,
+      "duration": 16323,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWeblsUPzpFAKb",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@44f75083]"
+      },
+      "dependsOn": [],
+      "startTime": 1515044028018,
+      "duration": 15240,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWebVIaSjsxNrP",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@543e710e]"
+      },
+      "dependsOn": [],
+      "startTime": 1515044240165,
+      "duration": 15385,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWeblhDzsIqExY",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@543e710e]"
+      },
+      "dependsOn": [],
+      "startTime": 1515044520170,
+      "duration": 15905,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWebHxyolKOBCH",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@543e710e]"
+      },
+      "dependsOn": [],
+      "startTime": 1515044562152,
+      "duration": 19318,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWebGzemibUQto",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@543e710e]"
+      },
+      "dependsOn": [],
+      "startTime": 1515044755027,
+      "duration": 18364,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWebuEJyHpkNko",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@3d6f0054]"
+      },
+      "dependsOn": [],
+      "startTime": 1515044805048,
+      "duration": 15405,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWebWFzWVFIwKa",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@3d6f0054]"
+      },
+      "dependsOn": [],
+      "startTime": 1515044852600,
+      "duration": 31954,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWebuRCRASNVVt",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@3d6f0054]"
+      },
+      "dependsOn": [],
+      "startTime": 1515044926639,
+      "duration": 22298,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWeblRGmStGDuG",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@543e710e]"
+      },
+      "dependsOn": [],
+      "startTime": 1515045029176,
+      "duration": 15122,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWebzMRDEiqCDT",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@543e710e]"
+      },
+      "dependsOn": [],
+      "startTime": 1515045351651,
+      "duration": 15320,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWebYfvTIUeDuk",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@543e710e]"
+      },
+      "dependsOn": [],
+      "startTime": 1515045707313,
+      "duration": 16391,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWebLAAghpKLCa",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@543e710e]"
+      },
+      "dependsOn": [],
+      "startTime": 1515046371442,
+      "duration": 15198,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

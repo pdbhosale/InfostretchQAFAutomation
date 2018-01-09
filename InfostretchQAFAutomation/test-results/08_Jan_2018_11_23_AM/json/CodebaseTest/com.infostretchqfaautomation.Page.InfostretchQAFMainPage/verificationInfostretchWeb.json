@@ -1,0 +1,420 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "deleteAllCookies",
+      "args": [
+        "{}"
+      ],
+      "result": "null",
+      "subLogs": [],
+      "duration": 68
+    },
+    {
+      "commandName": "get",
+      "args": [
+        "{url=https://www.infostretch.com}"
+      ],
+      "result": "null",
+      "subLogs": [],
+      "duration": 24475
+    },
+    {
+      "commandName": "maximizeWindow",
+      "args": [
+        "{windowHandle=current}"
+      ],
+      "result": "null",
+      "subLogs": [],
+      "duration": 1197
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=.fivecol, using=css selector}"
+      ],
+      "result": "[id: 0.0030322958686928025-1, id: 0.0030322958686928025-2, id: 0.0030322958686928025-3, id: 0.0030322958686928025-4, id: 0.0030322958686928025-5]",
+      "subLogs": [],
+      "duration": 226
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: .fivecol",
+        "{\"using\":\"css selector\",\"id\":\"0.0030322958686928025-1\",\"value\":\".name\"}"
+      ],
+      "result": "findChildElement:id: 0.0030322958686928025-6",
+      "subLogs": [],
+      "duration": 157
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.cssSelector: .name",
+        "{\"id\":\"0.0030322958686928025-6\"}"
+      ],
+      "result": "getElementText:Retail",
+      "subLogs": [],
+      "duration": 32
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: .fivecol",
+        "{\"using\":\"css selector\",\"id\":\"0.0030322958686928025-1\",\"value\":\".img\"}"
+      ],
+      "result": "findChildElements:[id: 0.0030322958686928025-7]",
+      "subLogs": [],
+      "duration": 16
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: .fivecol",
+        "{\"using\":\"css selector\",\"id\":\"0.0030322958686928025-1\",\"value\":\".img\"}"
+      ],
+      "result": "findChildElement:id: 0.0030322958686928025-7",
+      "subLogs": [],
+      "duration": 16
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: .img",
+        "{\"id\":\"0.0030322958686928025-7\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 19
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: .fivecol",
+        "{\"using\":\"css selector\",\"id\":\"0.0030322958686928025-2\",\"value\":\".name\"}"
+      ],
+      "result": "findChildElement:id: 0.0030322958686928025-8",
+      "subLogs": [],
+      "duration": 21
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.cssSelector: .name",
+        "{\"id\":\"0.0030322958686928025-8\"}"
+      ],
+      "result": "getElementText:Healthcare",
+      "subLogs": [],
+      "duration": 27
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: .fivecol",
+        "{\"using\":\"css selector\",\"id\":\"0.0030322958686928025-2\",\"value\":\".img\"}"
+      ],
+      "result": "findChildElements:[id: 0.0030322958686928025-9]",
+      "subLogs": [],
+      "duration": 20
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: .fivecol",
+        "{\"using\":\"css selector\",\"id\":\"0.0030322958686928025-2\",\"value\":\".img\"}"
+      ],
+      "result": "findChildElement:id: 0.0030322958686928025-9",
+      "subLogs": [],
+      "duration": 16
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: .img",
+        "{\"id\":\"0.0030322958686928025-9\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 20
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: .fivecol",
+        "{\"using\":\"css selector\",\"id\":\"0.0030322958686928025-3\",\"value\":\".name\"}"
+      ],
+      "result": "findChildElement:id: 0.0030322958686928025-10",
+      "subLogs": [],
+      "duration": 21
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.cssSelector: .name",
+        "{\"id\":\"0.0030322958686928025-10\"}"
+      ],
+      "result": "getElementText:Finance",
+      "subLogs": [],
+      "duration": 20
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: .fivecol",
+        "{\"using\":\"css selector\",\"id\":\"0.0030322958686928025-3\",\"value\":\".img\"}"
+      ],
+      "result": "findChildElements:[id: 0.0030322958686928025-11]",
+      "subLogs": [],
+      "duration": 19
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: .fivecol",
+        "{\"using\":\"css selector\",\"id\":\"0.0030322958686928025-3\",\"value\":\".img\"}"
+      ],
+      "result": "findChildElement:id: 0.0030322958686928025-11",
+      "subLogs": [],
+      "duration": 15
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: .img",
+        "{\"id\":\"0.0030322958686928025-11\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 16
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: .fivecol",
+        "{\"using\":\"css selector\",\"id\":\"0.0030322958686928025-4\",\"value\":\".name\"}"
+      ],
+      "result": "findChildElement:id: 0.0030322958686928025-12",
+      "subLogs": [],
+      "duration": 17
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.cssSelector: .name",
+        "{\"id\":\"0.0030322958686928025-12\"}"
+      ],
+      "result": "getElementText:Hospitality",
+      "subLogs": [],
+      "duration": 20
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: .fivecol",
+        "{\"using\":\"css selector\",\"id\":\"0.0030322958686928025-4\",\"value\":\".img\"}"
+      ],
+      "result": "findChildElements:[id: 0.0030322958686928025-13]",
+      "subLogs": [],
+      "duration": 20
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: .fivecol",
+        "{\"using\":\"css selector\",\"id\":\"0.0030322958686928025-4\",\"value\":\".img\"}"
+      ],
+      "result": "findChildElement:id: 0.0030322958686928025-13",
+      "subLogs": [],
+      "duration": 24
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: .img",
+        "{\"id\":\"0.0030322958686928025-13\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 18
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: .fivecol",
+        "{\"using\":\"css selector\",\"id\":\"0.0030322958686928025-5\",\"value\":\".name\"}"
+      ],
+      "result": "findChildElement:id: 0.0030322958686928025-14",
+      "subLogs": [],
+      "duration": 16
+    },
+    {
+      "commandName": "getElementText",
+      "args": [
+        "By.cssSelector: .name",
+        "{\"id\":\"0.0030322958686928025-14\"}"
+      ],
+      "result": "getElementText:Technology",
+      "subLogs": [],
+      "duration": 20
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: .fivecol",
+        "{\"using\":\"css selector\",\"id\":\"0.0030322958686928025-5\",\"value\":\".img\"}"
+      ],
+      "result": "findChildElements:[id: 0.0030322958686928025-15]",
+      "subLogs": [],
+      "duration": 12
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: .fivecol",
+        "{\"using\":\"css selector\",\"id\":\"0.0030322958686928025-5\",\"value\":\".img\"}"
+      ],
+      "result": "findChildElement:id: 0.0030322958686928025-15",
+      "subLogs": [],
+      "duration": 16
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: .img",
+        "{\"id\":\"0.0030322958686928025-15\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 17
+    }
+  ],
+  "checkPoints": [
+    {
+      "message": "Started QAF Automation",
+      "type": "Info",
+      "screenshot": "",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "1. Retail",
+      "type": "Info",
+      "screenshot": "",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "Expected By.cssSelector: .img visible : Actual By.cssSelector: .img visible",
+      "type": "Pass",
+      "screenshot": "../img/verificationInfostretchWeb_1killuxouh46z12494.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "2. true",
+      "type": "Info",
+      "screenshot": "",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "1. Healthcare",
+      "type": "Info",
+      "screenshot": "",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "Expected By.cssSelector: .img visible : Actual By.cssSelector: .img visible",
+      "type": "Pass",
+      "screenshot": "../img/verificationInfostretchWeb_eyfyt5vkjbi512495.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "2. true",
+      "type": "Info",
+      "screenshot": "",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "1. Finance",
+      "type": "Info",
+      "screenshot": "",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "Expected By.cssSelector: .img visible : Actual By.cssSelector: .img visible",
+      "type": "Pass",
+      "screenshot": "../img/verificationInfostretchWeb_rq0nduzj0o3n12496.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "2. true",
+      "type": "Info",
+      "screenshot": "",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "1. Hospitality",
+      "type": "Info",
+      "screenshot": "",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "Expected By.cssSelector: .img visible : Actual By.cssSelector: .img visible",
+      "type": "Pass",
+      "screenshot": "../img/verificationInfostretchWeb_1w1mnu3mwm62712497.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "2. true",
+      "type": "Info",
+      "screenshot": "",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "1. Technology",
+      "type": "Info",
+      "screenshot": "",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "Expected By.cssSelector: .img visible : Actual By.cssSelector: .img visible",
+      "type": "Pass",
+      "screenshot": "../img/verificationInfostretchWeb_i52wwj0yfx3812498.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "2. true",
+      "type": "Info",
+      "screenshot": "",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    }
+  ]
+}

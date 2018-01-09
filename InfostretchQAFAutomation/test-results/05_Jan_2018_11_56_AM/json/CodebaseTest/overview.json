@@ -1,0 +1,66 @@
+{
+  "total": 1,
+  "pass": 0,
+  "fail": 1,
+  "skip": 0,
+  "classes": [
+    "com.infostretchqfaautomation.Page.InfostretchQAFMainPage"
+  ],
+  "envInfo": {
+    "browser-desired-capabilities": {
+      "browserName": "chrome",
+      "takesScreenshot": true,
+      "javascriptEnabled": true,
+      "version": "",
+      "platform": "ANY",
+      "cssSelectorsEnabled": true
+    },
+    "browser-actual-capabilities": {
+      "applicationCacheEnabled": "false",
+      "rotatable": "false",
+      "mobileEmulationEnabled": "false",
+      "networkConnectionEnabled": "false",
+      "chrome": "{chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\\Users\\PRIYAN~1.BHO\\AppData\\Local\\Temp\\scoped_dir15140_17943}",
+      "takesHeapSnapshot": "true",
+      "pageLoadStrategy": "normal",
+      "databaseEnabled": "false",
+      "handlesAlerts": "true",
+      "hasTouchScreen": "false",
+      "version": "63.0.3239.108",
+      "platform": "XP",
+      "browserConnectionEnabled": "false",
+      "nativeEvents": "true",
+      "acceptSslCerts": "true",
+      "locationContextEnabled": "true",
+      "webStorageEnabled": "true",
+      "browserName": "chrome",
+      "takesScreenshot": "true",
+      "javascriptEnabled": "true",
+      "cssSelectorsEnabled": "true",
+      "setWindowRect": "true",
+      "unexpectedAlertBehaviour": ""
+    },
+    "isfw-build-info": {
+      "qaf-Type": "core",
+      "qaf-Revision": "12",
+      "qaf-Version": "2.1",
+      "qaf-Build-Time": "06-Sep-2017 07:56:25"
+    },
+    "run-parameters": {
+      "baseurl": "https://www.infostretch.com",
+      "resources": "resources"
+    },
+    "execution-env-info": {
+      "java.arch": "64",
+      "java.vendor": "Oracle Corporation",
+      "java.version": "1.8.0_152",
+      "os.arch": "amd64",
+      "host": "ICPL12742",
+      "os.name": "Windows 10",
+      "user.name": "Priyanka.Bhosale",
+      "os.version": "10.0"
+    }
+  },
+  "startTime": 1515153422017,
+  "endTime": 1515153422124
+}

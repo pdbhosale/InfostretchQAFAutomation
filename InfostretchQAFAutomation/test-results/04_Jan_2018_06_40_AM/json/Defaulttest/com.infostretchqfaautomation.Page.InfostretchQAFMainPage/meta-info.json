@@ -1,0 +1,131 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@543e710e]"
+      },
+      "dependsOn": [],
+      "startTime": 1515048039136,
+      "duration": 15293,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWebGkADVzjPJC",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@543e710e]"
+      },
+      "dependsOn": [],
+      "startTime": 1515048070924,
+      "duration": 15282,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWebKcFnQavHON",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@543e710e]"
+      },
+      "dependsOn": [],
+      "startTime": 1515050315597,
+      "duration": 16900,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWebddRUKGnjSK",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@3d6f0054]"
+      },
+      "dependsOn": [],
+      "startTime": 1515050381934,
+      "duration": 17612,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWebJzEpvvgEUO",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@3d6f0054]"
+      },
+      "dependsOn": [],
+      "startTime": 1515050412081,
+      "duration": 21152,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWebAVvqNWfuIs",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@3d6f0054]"
+      },
+      "dependsOn": [],
+      "startTime": 1515050524110,
+      "duration": 17676,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWebehZhcXezfE",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@3d6f0054]"
+      },
+      "dependsOn": [],
+      "startTime": 1515050555988,
+      "duration": 18142,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "verificationInfostretchWeb",
+        "resultFileName": "verificationInfostretchWebUhXcyChgNf",
+        "sign": "InfostretchQAFMainPage.verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@543e710e]"
+      },
+      "dependsOn": [],
+      "startTime": 1515050645461,
+      "duration": 16322,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

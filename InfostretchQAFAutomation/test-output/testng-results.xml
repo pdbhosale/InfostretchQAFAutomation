@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"><div  class="info"><span class="info-label">I </span>Started QAF Automation</div></div>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19632" started-at="2018-01-05T03:55:53Z" finished-at="2018-01-05T03:56:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19632" started-at="2018-01-05T03:55:53Z" finished-at="2018-01-05T03:56:12Z">
+      <class name="com.infostretchqfaautomation.Page.InfostretchQAFMainPage">
+        <test-method status="PASS" signature="verificationInfostretchWeb()[pri:0, instance:com.infostretchqfaautomation.Page.InfostretchQAFMainPage@543e710e]" name="verificationInfostretchWeb" duration-ms="19568" started-at="2018-01-05T09:25:53Z" finished-at="2018-01-05T09:26:12Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"><div  class="info"><span class="info-label">I </span>Started QAF Automation</div></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verificationInfostretchWeb -->
+      </class> <!-- com.infostretchqfaautomation.Page.InfostretchQAFMainPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

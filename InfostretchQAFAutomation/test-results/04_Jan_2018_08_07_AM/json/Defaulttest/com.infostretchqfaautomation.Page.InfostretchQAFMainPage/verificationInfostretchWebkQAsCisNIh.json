@@ -1,0 +1,60 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "get",
+      "args": [
+        "{url=https://www.infostretch.com}"
+      ],
+      "result": "null",
+      "subLogs": [],
+      "duration": 24707
+    },
+    {
+      "commandName": "maximizeWindow",
+      "args": [
+        "{windowHandle=current}"
+      ],
+      "result": "null",
+      "subLogs": [],
+      "duration": 1184
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a/span[text()='IP & INNOVATION'], using=xpath}"
+      ],
+      "result": "id: 0.36725716082511317-1",
+      "subLogs": [],
+      "duration": 93
+    },
+    {
+      "commandName": "mouseMoveTo",
+      "args": [
+        "{element=0.36725716082511317-1}"
+      ],
+      "result": "null",
+      "subLogs": [],
+      "duration": 124
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//span[text()='QMetry Automation Framework'], using=xpath}"
+      ],
+      "result": "id: 0.36725716082511317-2",
+      "subLogs": [],
+      "duration": 47
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //span[text()='QMetry Automation Framework']",
+        "{\"id\":\"0.36725716082511317-2\"}"
+      ],
+      "result": "clickElement:null",
+      "subLogs": [],
+      "duration": 177
+    }
+  ],
+  "checkPoints": []
+}

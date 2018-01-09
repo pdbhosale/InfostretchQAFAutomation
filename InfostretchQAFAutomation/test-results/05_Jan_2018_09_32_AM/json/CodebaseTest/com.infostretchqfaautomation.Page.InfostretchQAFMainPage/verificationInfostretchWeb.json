@@ -1,0 +1,976 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "deleteAllCookies",
+      "args": [
+        "{}"
+      ],
+      "result": "null",
+      "subLogs": [],
+      "duration": 73
+    },
+    {
+      "commandName": "get",
+      "args": [
+        "{url=https://www.infostretch.com}"
+      ],
+      "result": "null",
+      "subLogs": [],
+      "duration": 18056
+    },
+    {
+      "commandName": "maximizeWindow",
+      "args": [
+        "{windowHandle=current}"
+      ],
+      "result": "null",
+      "subLogs": [],
+      "duration": 1158
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=#resources_slideimg div div.owl-stage-outer div div, using=css selector}"
+      ],
+      "result": "[id: 0.993786572360708-1, id: 0.993786572360708-2, id: 0.993786572360708-3, id: 0.993786572360708-4, id: 0.993786572360708-5, id: 0.993786572360708-6, id: 0.993786572360708-7, id: 0.993786572360708-8, id: 0.993786572360708-9, id: 0.993786572360708-10, id: 0.993786572360708-11, id: 0.993786572360708-12, id: 0.993786572360708-13, id: 0.993786572360708-14, id: 0.993786572360708-15, id: 0.993786572360708-16, id: 0.993786572360708-17, id: 0.993786572360708-18, id: 0.993786572360708-19, id: 0.993786572360708-20, id: 0.993786572360708-21, id: 0.993786572360708-22, id: 0.993786572360708-23, id: 0.993786572360708-24, id: 0.993786572360708-25, id: 0.993786572360708-26, id: 0.993786572360708-27, id: 0.993786572360708-28, id: 0.993786572360708-29, id: 0.993786572360708-30, id: 0.993786572360708-31, id: 0.993786572360708-32, id: 0.993786572360708-33, id: 0.993786572360708-34, id: 0.993786572360708-35, id: 0.993786572360708-36, id: 0.993786572360708-37, id: 0.993786572360708-38, id: 0.993786572360708-39, id: 0.993786572360708-40, id: 0.993786572360708-41, id: 0.993786572360708-42, id: 0.993786572360708-43, id: 0.993786572360708-44, id: 0.993786572360708-45, id: 0.993786572360708-46, id: 0.993786572360708-47, id: 0.993786572360708-48, id: 0.993786572360708-49, id: 0.993786572360708-50, id: 0.993786572360708-51, id: 0.993786572360708-52, id: 0.993786572360708-53, id: 0.993786572360708-54, id: 0.993786572360708-55, id: 0.993786572360708-56, id: 0.993786572360708-57, id: 0.993786572360708-58, id: 0.993786572360708-59, id: 0.993786572360708-60, id: 0.993786572360708-61, id: 0.993786572360708-62, id: 0.993786572360708-63, id: 0.993786572360708-64, id: 0.993786572360708-65, id: 0.993786572360708-66, id: 0.993786572360708-67, id: 0.993786572360708-68, id: 0.993786572360708-69, id: 0.993786572360708-70, id: 0.993786572360708-71, id: 0.993786572360708-72, id: 0.993786572360708-73, id: 0.993786572360708-74, id: 0.993786572360708-75, id: 0.993786572360708-76, id: 0.993786572360708-77, id: 0.993786572360708-78, id: 0.993786572360708-79, id: 0.993786572360708-80, id: 0.993786572360708-81, id: 0.993786572360708-82, id: 0.993786572360708-83, id: 0.993786572360708-84, id: 0.993786572360708-85, id: 0.993786572360708-86, id: 0.993786572360708-87, id: 0.993786572360708-88, id: 0.993786572360708-89, id: 0.993786572360708-90, id: 0.993786572360708-91, id: 0.993786572360708-92, id: 0.993786572360708-93, id: 0.993786572360708-94, id: 0.993786572360708-95]",
+      "subLogs": [],
+      "duration": 117
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=#resources_slideimg div div.owl-stage-outer div div, using=css selector}"
+      ],
+      "result": "[id: 0.993786572360708-96, id: 0.993786572360708-97, id: 0.993786572360708-98, id: 0.993786572360708-99, id: 0.993786572360708-100, id: 0.993786572360708-101, id: 0.993786572360708-102, id: 0.993786572360708-103, id: 0.993786572360708-104, id: 0.993786572360708-105, id: 0.993786572360708-106, id: 0.993786572360708-107, id: 0.993786572360708-108, id: 0.993786572360708-109, id: 0.993786572360708-110, id: 0.993786572360708-111, id: 0.993786572360708-112, id: 0.993786572360708-113, id: 0.993786572360708-114, id: 0.993786572360708-115, id: 0.993786572360708-116, id: 0.993786572360708-117, id: 0.993786572360708-118, id: 0.993786572360708-119, id: 0.993786572360708-120, id: 0.993786572360708-26, id: 0.993786572360708-27, id: 0.993786572360708-28, id: 0.993786572360708-29, id: 0.993786572360708-30, id: 0.993786572360708-31, id: 0.993786572360708-32, id: 0.993786572360708-33, id: 0.993786572360708-34, id: 0.993786572360708-35, id: 0.993786572360708-36, id: 0.993786572360708-37, id: 0.993786572360708-38, id: 0.993786572360708-39, id: 0.993786572360708-40, id: 0.993786572360708-41, id: 0.993786572360708-42, id: 0.993786572360708-43, id: 0.993786572360708-44, id: 0.993786572360708-45, id: 0.993786572360708-46, id: 0.993786572360708-47, id: 0.993786572360708-48, id: 0.993786572360708-49, id: 0.993786572360708-50, id: 0.993786572360708-51, id: 0.993786572360708-52, id: 0.993786572360708-53, id: 0.993786572360708-54, id: 0.993786572360708-55, id: 0.993786572360708-56, id: 0.993786572360708-57, id: 0.993786572360708-58, id: 0.993786572360708-59, id: 0.993786572360708-60, id: 0.993786572360708-61, id: 0.993786572360708-62, id: 0.993786572360708-63, id: 0.993786572360708-64, id: 0.993786572360708-65, id: 0.993786572360708-66, id: 0.993786572360708-67, id: 0.993786572360708-68, id: 0.993786572360708-69, id: 0.993786572360708-70, id: 0.993786572360708-121, id: 0.993786572360708-122, id: 0.993786572360708-123, id: 0.993786572360708-124, id: 0.993786572360708-125, id: 0.993786572360708-126, id: 0.993786572360708-127, id: 0.993786572360708-128, id: 0.993786572360708-129, id: 0.993786572360708-130, id: 0.993786572360708-131, id: 0.993786572360708-132, id: 0.993786572360708-133, id: 0.993786572360708-134, id: 0.993786572360708-135, id: 0.993786572360708-136, id: 0.993786572360708-137, id: 0.993786572360708-138, id: 0.993786572360708-139, id: 0.993786572360708-140, id: 0.993786572360708-141, id: 0.993786572360708-142, id: 0.993786572360708-143, id: 0.993786572360708-144, id: 0.993786572360708-145]",
+      "subLogs": [],
+      "duration": 24
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElements:[id: 0.993786572360708-146]",
+      "subLogs": [],
+      "duration": 16
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElement:id: 0.993786572360708-146",
+      "subLogs": [],
+      "duration": 16
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: div .desc h2",
+        "{\"id\":\"0.993786572360708-146\"}"
+      ],
+      "result": "isElementDisplayed:false",
+      "subLogs": [],
+      "duration": 26
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElements:[id: 0.993786572360708-146]",
+      "subLogs": [],
+      "duration": 32
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElement:id: 0.993786572360708-146",
+      "subLogs": [],
+      "duration": 29
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: div .desc h2",
+        "{\"id\":\"0.993786572360708-146\"}"
+      ],
+      "result": "isElementDisplayed:false",
+      "subLogs": [],
+      "duration": 18
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElements:[id: 0.993786572360708-146]",
+      "subLogs": [],
+      "duration": 28
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElement:id: 0.993786572360708-146",
+      "subLogs": [],
+      "duration": 22
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: div .desc h2",
+        "{\"id\":\"0.993786572360708-146\"}"
+      ],
+      "result": "isElementDisplayed:false",
+      "subLogs": [],
+      "duration": 16
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElements:[id: 0.993786572360708-146]",
+      "subLogs": [],
+      "duration": 28
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElement:id: 0.993786572360708-146",
+      "subLogs": [],
+      "duration": 15
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: div .desc h2",
+        "{\"id\":\"0.993786572360708-146\"}"
+      ],
+      "result": "isElementDisplayed:false",
+      "subLogs": [],
+      "duration": 16
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElements:[id: 0.993786572360708-146]",
+      "subLogs": [],
+      "duration": 12
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElement:id: 0.993786572360708-146",
+      "subLogs": [],
+      "duration": 11
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: div .desc h2",
+        "{\"id\":\"0.993786572360708-146\"}"
+      ],
+      "result": "isElementDisplayed:false",
+      "subLogs": [],
+      "duration": 16
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElements:[id: 0.993786572360708-146]",
+      "subLogs": [],
+      "duration": 23
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElement:id: 0.993786572360708-146",
+      "subLogs": [],
+      "duration": 24
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: div .desc h2",
+        "{\"id\":\"0.993786572360708-146\"}"
+      ],
+      "result": "isElementDisplayed:false",
+      "subLogs": [],
+      "duration": 12
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElements:[id: 0.993786572360708-146]",
+      "subLogs": [],
+      "duration": 38
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElement:id: 0.993786572360708-146",
+      "subLogs": [],
+      "duration": 24
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: div .desc h2",
+        "{\"id\":\"0.993786572360708-146\"}"
+      ],
+      "result": "isElementDisplayed:false",
+      "subLogs": [],
+      "duration": 11
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElements:[id: 0.993786572360708-146]",
+      "subLogs": [],
+      "duration": 70
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElement:id: 0.993786572360708-146",
+      "subLogs": [],
+      "duration": 14
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: div .desc h2",
+        "{\"id\":\"0.993786572360708-146\"}"
+      ],
+      "result": "isElementDisplayed:false",
+      "subLogs": [],
+      "duration": 11
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElements:[id: 0.993786572360708-146]",
+      "subLogs": [],
+      "duration": 33
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElement:id: 0.993786572360708-146",
+      "subLogs": [],
+      "duration": 25
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: div .desc h2",
+        "{\"id\":\"0.993786572360708-146\"}"
+      ],
+      "result": "isElementDisplayed:false",
+      "subLogs": [],
+      "duration": 21
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElements:[id: 0.993786572360708-146]",
+      "subLogs": [],
+      "duration": 16
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElement:id: 0.993786572360708-146",
+      "subLogs": [],
+      "duration": 16
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: div .desc h2",
+        "{\"id\":\"0.993786572360708-146\"}"
+      ],
+      "result": "isElementDisplayed:false",
+      "subLogs": [],
+      "duration": 18
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElements:[id: 0.993786572360708-146]",
+      "subLogs": [],
+      "duration": 30
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElement:id: 0.993786572360708-146",
+      "subLogs": [],
+      "duration": 25
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: div .desc h2",
+        "{\"id\":\"0.993786572360708-146\"}"
+      ],
+      "result": "isElementDisplayed:false",
+      "subLogs": [],
+      "duration": 19
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElements:[id: 0.993786572360708-146]",
+      "subLogs": [],
+      "duration": 26
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElement:id: 0.993786572360708-146",
+      "subLogs": [],
+      "duration": 15
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: div .desc h2",
+        "{\"id\":\"0.993786572360708-146\"}"
+      ],
+      "result": "isElementDisplayed:false",
+      "subLogs": [],
+      "duration": 17
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElements:[id: 0.993786572360708-146]",
+      "subLogs": [],
+      "duration": 9
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElement:id: 0.993786572360708-146",
+      "subLogs": [],
+      "duration": 12
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: div .desc h2",
+        "{\"id\":\"0.993786572360708-146\"}"
+      ],
+      "result": "isElementDisplayed:false",
+      "subLogs": [],
+      "duration": 19
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElements:[id: 0.993786572360708-146]",
+      "subLogs": [],
+      "duration": 33
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElement:id: 0.993786572360708-146",
+      "subLogs": [],
+      "duration": 24
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: div .desc h2",
+        "{\"id\":\"0.993786572360708-146\"}"
+      ],
+      "result": "isElementDisplayed:false",
+      "subLogs": [],
+      "duration": 18
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElements:[id: 0.993786572360708-146]",
+      "subLogs": [],
+      "duration": 36
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElement:id: 0.993786572360708-146",
+      "subLogs": [],
+      "duration": 26
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: div .desc h2",
+        "{\"id\":\"0.993786572360708-146\"}"
+      ],
+      "result": "isElementDisplayed:false",
+      "subLogs": [],
+      "duration": 24
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElements:[id: 0.993786572360708-146]",
+      "subLogs": [],
+      "duration": 16
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElement:id: 0.993786572360708-146",
+      "subLogs": [],
+      "duration": 15
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: div .desc h2",
+        "{\"id\":\"0.993786572360708-146\"}"
+      ],
+      "result": "isElementDisplayed:false",
+      "subLogs": [],
+      "duration": 12
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElements:[id: 0.993786572360708-146]",
+      "subLogs": [],
+      "duration": 22
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElement:id: 0.993786572360708-146",
+      "subLogs": [],
+      "duration": 20
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: div .desc h2",
+        "{\"id\":\"0.993786572360708-146\"}"
+      ],
+      "result": "isElementDisplayed:false",
+      "subLogs": [],
+      "duration": 12
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElements:[id: 0.993786572360708-146]",
+      "subLogs": [],
+      "duration": 17
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElement:id: 0.993786572360708-146",
+      "subLogs": [],
+      "duration": 17
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: div .desc h2",
+        "{\"id\":\"0.993786572360708-146\"}"
+      ],
+      "result": "isElementDisplayed:false",
+      "subLogs": [],
+      "duration": 12
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElements:[id: 0.993786572360708-146]",
+      "subLogs": [],
+      "duration": 16
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElement:id: 0.993786572360708-146",
+      "subLogs": [],
+      "duration": 15
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: div .desc h2",
+        "{\"id\":\"0.993786572360708-146\"}"
+      ],
+      "result": "isElementDisplayed:false",
+      "subLogs": [],
+      "duration": 17
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElements:[id: 0.993786572360708-146]",
+      "subLogs": [],
+      "duration": 15
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElement:id: 0.993786572360708-146",
+      "subLogs": [],
+      "duration": 16
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: div .desc h2",
+        "{\"id\":\"0.993786572360708-146\"}"
+      ],
+      "result": "isElementDisplayed:false",
+      "subLogs": [],
+      "duration": 27
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElements:[id: 0.993786572360708-146]",
+      "subLogs": [],
+      "duration": 16
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElement:id: 0.993786572360708-146",
+      "subLogs": [],
+      "duration": 14
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: div .desc h2",
+        "{\"id\":\"0.993786572360708-146\"}"
+      ],
+      "result": "isElementDisplayed:false",
+      "subLogs": [],
+      "duration": 17
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElements:[id: 0.993786572360708-146]",
+      "subLogs": [],
+      "duration": 19
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElement:id: 0.993786572360708-146",
+      "subLogs": [],
+      "duration": 19
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: div .desc h2",
+        "{\"id\":\"0.993786572360708-146\"}"
+      ],
+      "result": "isElementDisplayed:false",
+      "subLogs": [],
+      "duration": 19
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElements:[id: 0.993786572360708-146]",
+      "subLogs": [],
+      "duration": 31
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElement:id: 0.993786572360708-146",
+      "subLogs": [],
+      "duration": 19
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: div .desc h2",
+        "{\"id\":\"0.993786572360708-146\"}"
+      ],
+      "result": "isElementDisplayed:false",
+      "subLogs": [],
+      "duration": 11
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElements:[id: 0.993786572360708-146]",
+      "subLogs": [],
+      "duration": 14
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElement:id: 0.993786572360708-146",
+      "subLogs": [],
+      "duration": 12
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: div .desc h2",
+        "{\"id\":\"0.993786572360708-146\"}"
+      ],
+      "result": "isElementDisplayed:false",
+      "subLogs": [],
+      "duration": 12
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElements:[id: 0.993786572360708-146]",
+      "subLogs": [],
+      "duration": 18
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElement:id: 0.993786572360708-146",
+      "subLogs": [],
+      "duration": 13
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: div .desc h2",
+        "{\"id\":\"0.993786572360708-146\"}"
+      ],
+      "result": "isElementDisplayed:false",
+      "subLogs": [],
+      "duration": 14
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElements:[id: 0.993786572360708-146]",
+      "subLogs": [],
+      "duration": 27
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElement:id: 0.993786572360708-146",
+      "subLogs": [],
+      "duration": 16
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: div .desc h2",
+        "{\"id\":\"0.993786572360708-146\"}"
+      ],
+      "result": "isElementDisplayed:false",
+      "subLogs": [],
+      "duration": 15
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElements:[id: 0.993786572360708-146]",
+      "subLogs": [],
+      "duration": 19
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElement:id: 0.993786572360708-146",
+      "subLogs": [],
+      "duration": 17
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: div .desc h2",
+        "{\"id\":\"0.993786572360708-146\"}"
+      ],
+      "result": "isElementDisplayed:false",
+      "subLogs": [],
+      "duration": 9
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElements:[id: 0.993786572360708-146]",
+      "subLogs": [],
+      "duration": 11
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElement:id: 0.993786572360708-146",
+      "subLogs": [],
+      "duration": 23
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: div .desc h2",
+        "{\"id\":\"0.993786572360708-146\"}"
+      ],
+      "result": "isElementDisplayed:false",
+      "subLogs": [],
+      "duration": 16
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElements:[id: 0.993786572360708-146]",
+      "subLogs": [],
+      "duration": 17
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElement:id: 0.993786572360708-146",
+      "subLogs": [],
+      "duration": 18
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: div .desc h2",
+        "{\"id\":\"0.993786572360708-146\"}"
+      ],
+      "result": "isElementDisplayed:false",
+      "subLogs": [],
+      "duration": 15
+    },
+    {
+      "commandName": "findChildElements",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElements:[id: 0.993786572360708-146]",
+      "subLogs": [],
+      "duration": 11
+    },
+    {
+      "commandName": "findChildElement",
+      "args": [
+        "By.cssSelector: #resources_slideimg div div.owl-stage-outer div div",
+        "{\"using\":\"css selector\",\"id\":\"0.993786572360708-96\",\"value\":\"div .desc h2\"}"
+      ],
+      "result": "findChildElement:id: 0.993786572360708-146",
+      "subLogs": [],
+      "duration": 15
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.cssSelector: div .desc h2",
+        "{\"id\":\"0.993786572360708-146\"}"
+      ],
+      "result": "isElementDisplayed:false",
+      "subLogs": [],
+      "duration": 11
+    }
+  ],
+  "checkPoints": [
+    {
+      "message": "Started QAF Automation",
+      "type": "Info",
+      "screenshot": "",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "\nExpected: a value greater than &lt;0&gt;\n     Actual: &lt;95&gt; was greater than &lt;0&gt;",
+      "type": "Pass",
+      "screenshot": "../img/verificationInfostretchWeb_1wxqb6xstbeey29177.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "Timed out after 30 seconds: Wait time out for By.cssSelector: div .desc h2 to be visible\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL12742', ip: '10.11.28.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_152'\nDriver info: driver.version: unknown",
+      "type": "Fail",
+      "screenshot": "../img/verificationInfostretchWeb_n57u6l2k8s4a29178.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    }
+  ],
+  "errorTrace": "org.openqa.selenium.TimeoutException: Timed out after 30 seconds: Wait time out for By.cssSelector: div .desc h2 to be visible\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL12742', ip: '10.11.28.21', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_152'\nDriver info: driver.version: unknown\r\n\tat org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:292)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:261)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebElement.waitForVisible(QAFExtendedWebElement.java:475)\r\n\tat com.infostretchqfaautomation.Page.IdeasandinspirationTestPage.verifySearchedResultList(IdeasandinspirationTestPage.java:53)\r\n\tat com.infostretchqfaautomation.Page.InfostretchQAFMainPage.verificationInfostretchWeb(InfostretchQAFMainPage.java:28)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)\r\n\tat org.testng.internal.Invoker.invokeMethod(Invoker.java:645)\r\n\tat org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)\r\n\tat org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)\r\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)\r\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)\r\n\tat org.testng.TestRunner.privateRun(TestRunner.java:781)\r\n\tat org.testng.TestRunner.run(TestRunner.java:635)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:387)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:289)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1218)\r\n\tat org.testng.TestNG.runSuites(TestNG.java:1133)\r\n\tat org.testng.TestNG.run(TestNG.java:1104)\r\n\tat org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:122)\r\n\tat org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)\r\n\tat org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:101)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:164)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:110)\r\n\tat org.apache.maven.surefire.booter.SurefireStarter.invokeProvider(SurefireStarter.java:172)\r\n\tat org.apache.maven.surefire.booter.SurefireStarter.runSuitesInProcessWhenForked(SurefireStarter.java:104)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:70)\r\n"
+}

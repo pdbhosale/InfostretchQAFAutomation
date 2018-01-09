@@ -1,0 +1,4 @@
+menu.link = {\"locator\":\"xpath=//a/span[text()='%s']\"}
+submenu.link = {\"locator\":\"xpath=//span[text()='%s']\"}
+close.popup = {\"locator\":\"id=cookie-close\"}
+all.digitalServices = {\"locator\":\"css=.fivecol\"}
