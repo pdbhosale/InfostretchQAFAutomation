@@ -1,0 +1,28 @@
+
+
+SCENARIO: Verify Links
+META-DATA: {"description":"","groups":["P1","P2","SMOKE"]}
+	
+	Given user opens Infostretch application
+	When user verifies home page title
+	When user verifies sublinks from 'IP & INNOVATION'
+	When user search for tranning 'QMetry Test Management' from 'IP & INNOVATION' category	
+	When verify weblink 'Test Management'
+	Then user verifies digital services list
+	
+	
+END
+
+SCENARIO: Verify Links with database
+META-DATA: {"description":"","groups":["P1","P2","SMOKE"],"key":"links.sublinks"}
+	
+	#TODO: call test steps
+	Given user opens Infostretch application
+	When user verifies home page title
+	When user verifies sublinks from 'IP & INNOVATION'
+	When user search for tranning ${submenu} from 'IP & INNOVATION' category	
+	When verify weblink ${submenu}
+	Then user verifies digital services list
+	
+END
+
