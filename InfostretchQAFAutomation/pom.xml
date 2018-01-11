@@ -111,7 +111,7 @@
 
 <build>
 
-
+<pluginManagement>
 <plugins>
 
 
@@ -239,14 +239,6 @@
 </configuration>
 
 </plugin>
-
-</plugins>
-
-
-<pluginManagement>
-
-	
-<plugins>
 
 
 <plugin>
