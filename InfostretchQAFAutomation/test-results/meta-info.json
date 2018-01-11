@@ -2,6 +2,16 @@
   "reports": [
     {
       "name": "QAS Demo",
+      "dir": "test-results/11_Jan_2018_06_05_AM/json",
+      "startTime": 1515650736637
+    },
+    {
+      "name": "QAS Demo",
+      "dir": "test-results/11_Jan_2018_06_01_AM/json",
+      "startTime": 1515650480504
+    },
+    {
+      "name": "QAS Demo",
       "dir": "test-results/11_Jan_2018_05_49_AM/json",
       "startTime": 1515649807406
     },
