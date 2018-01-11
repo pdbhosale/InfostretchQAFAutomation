@@ -31,7 +31,7 @@ public class InfostretchHomeTestPage extends WebDriverBaseTestPage<WebDriverTest
 
 	@Override
 	protected void openPage(PageLocator pageLocator, Object... args) {
-		System.out.println("Launching Site");
+		Reporter.logWithScreenShot("<font color='orange'>Launching Site</font>");
 		driver.manage().deleteAllCookies();
 		driver.get("/");
 		driver.manage().window().maximize();
@@ -59,9 +59,9 @@ public class InfostretchHomeTestPage extends WebDriverBaseTestPage<WebDriverTest
 				getDigitalServices();
 		for(DigitalServicesComponent result:digitalservicescomponent) {
 			
-			Reporter.log("1. "+result.getMainHeader().getText().trim());
+			Reporter.logWithScreenShot("<font color='green'> 1. "+result.getMainHeader().getText().trim()+"</font>");
 			
-			Reporter.log("2. "+result.getMainImage().verifyVisible());
+			Reporter.logWithScreenShot("<font color='green'> 2. "+result.getMainImage().verifyVisible()+"</font>");
 			
 		}
 		}
@@ -74,14 +74,6 @@ public void selectWebLink(String menuLink,String submenuLink) throws Interrupted
     waitForPageToLoad();
 	
 	}
-
-public void launchSite() throws InterruptedException{
-	System.out.println("Launching Site");
-	driver.manage().deleteAllCookies();
-	driver.get("/");
-	driver.manage().window().maximize();
-}
-
 
 
 public void verifiedHomePage() {
@@ -98,7 +90,7 @@ public void verifySubLinks(String menuLink) throws InterruptedException {
 	
 	for(WebElement sublink:sublinks) {
 		
-		Reporter.log(sublink.getText() + " is present under "+menuLink);
+		Reporter.logWithScreenShot("<font color='green'>"+sublink.getText() + " is present under "+menuLink+"</font>");
 		
 	}
 }
@@ -110,7 +102,7 @@ public void verifyWebLink(String submenuLink) throws InterruptedException {
 	new InfostretchHomeTestPage().switchToWindow();
 		waitForPageToLoad();
 		Validator.verifyThat("Selected Page validtion", driver.getTitle(),Matchers.containsString(submenuLink));
-		driver.close();
+		//driver.close();
 		driver.switchTo().window(parentHandle);
 
 }
